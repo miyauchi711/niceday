@@ -13,7 +13,7 @@ class SigninPage extends StatelessWidget{
           children: <Widget>[
             Container(
               child: Text(
-                'Sign in',
+                'テスト',
               ),
             ),
           ],
