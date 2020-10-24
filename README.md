@@ -18,5 +18,3 @@ samples, guidance on mobile development, and a full API reference.
 # niceday
 # miyauchi711
 # miyauchi711
-# niceday
-# niceday
